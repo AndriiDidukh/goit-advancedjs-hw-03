@@ -4,7 +4,7 @@ import iziToast from 'izitoast';
 import { fetchFotoCard } from './js/pixabay-api';
 import { createMarkupGalleryCards } from './js/render-functions';
 
-const formElement = document.querySelector('.search-form');
+const formElement = document.querySelector('.form');
 const galleryElement = document.querySelector('.gallery');
 const loaderElement = document.querySelector('.loader');
 
