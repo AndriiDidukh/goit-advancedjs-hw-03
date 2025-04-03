@@ -42,7 +42,7 @@ function handlerSearch(e) {
             'Sorry, there are no images matching your search query. Please try again!',
           position: 'topRight',
           backgroundColor: 'orange',
-          maxWidth: '600px',
+          maxWidth: '650px',
         });
         return [];
       }
